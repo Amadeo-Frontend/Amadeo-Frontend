@@ -1,5 +1,7 @@
 
-##Hi!!! I'm <a href="https://apleon.github.io/rsschool-cv/" target="_blank">Amadeo</a>
+## <h1 align="center">Hi there, I'm <a href="https://apleon.github.io/rsschool-cv/" target="_blank">Amadeo</a>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+
 
 💻Welcome to my profile...
 
