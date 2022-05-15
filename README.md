@@ -9,7 +9,7 @@
   <img src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" width="480"/>
        </a>
 </div>
-##
+
 <div align="center">
   <a href="https://github.com/Amadeo-Frontend">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amadeo-Frontend&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
@@ -29,7 +29,7 @@
      <a href="https://instagram.com/amadeo1982/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
      <a href="https://discord.gg/Amadeo_Bon#3732" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   
-  ![snake gif](https://github.com/Amadeo-Frontend/Amadeo-Frontend/blob/output/github-contribution-grid-snake.svg)
+  
   ![Phanatagama](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
     
   </div>
