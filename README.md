@@ -1,5 +1,5 @@
 
-##Oi!!!Eu sou o Amadeo  👋
+##Hi!!! I'm Amadeo...  👋
 
 💻Estou estudando Front-end...
 😊Estou gostando muito de aprender e criar com HTML e CSS.
