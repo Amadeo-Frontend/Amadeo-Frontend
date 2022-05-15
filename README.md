@@ -3,7 +3,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center"> I'm a student of Front-end</h3>
 
-[![codewars](https://www.codewars.com/users/Apleon/badges/large)](https://www.codewars.com/Apleon/username)
+##
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hello+|+Hola+|Bonjour+|Привет+|你好+|こんにちは+|नमस्ते;+Welcome+to+my+profile+🌍 )](https://git.io/typing-svg)
 <!-- | Hola | Olá | Bonjour | Привет | 你好 | こんにちは | أهلا | नमस्ते -->
