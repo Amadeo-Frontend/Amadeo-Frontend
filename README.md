@@ -27,7 +27,7 @@
      <img align="center" alt="Amadeo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
      <img align="center" alt="Amadeo-GIT" height="30" widith="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
      <img align="center" alt="Amadeo-GITHUB" height="30" widith="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
-
+     <img align="center" alt="Amadeo-VScode" height="30" widith="40" src=https://github.com/Amadeo-Frontend/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg">
   </div>
   
   ##
