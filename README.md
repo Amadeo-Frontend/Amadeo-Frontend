@@ -13,8 +13,6 @@
   <img src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" width="480"/>
        </a>
 </div>
-[![My github activity graph](https://activity-graph.herokuapp.com/graph?username=Fullstack-WEB-Blockchain-Developer&theme=github&count_private=true&area=true&hide_border=true)](https://activity-graph.herokuapp.com/graph?username=Fullstack-WEB-Blockchain-Developer&theme=github&count_private=true)
-<div align="center">
   <a href="https://github.com/Amadeo-Frontend">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amadeo-Frontend&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amadeo-Frontend&layout=compact&langs_count=7&theme=github_dark"/>
