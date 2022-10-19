@@ -31,6 +31,7 @@
      <img align="center" alt="Amadeo-VScode" height="30" widith="40" src="https://github.com/Amadeo-Frontend/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg">
      <img align="center" alt="Amadeo-VScode" height="30" widith="40" src="https://github.com/Amadeo-Frontend/devicon/blob/master/icons/sass/sass-original.svg">
      <img align="center" alt="Amadeo-VScode" height="30" widith="40" src="https://github.com/Amadeo-Frontend/devicon/blob/master/icons/gulp/gulp-plain.svg">
+      <img align="center" alt="Amadeo-VScode" height="30" widith="40" src="https://github.com/Amadeo-Frontend/devicon/blob/master/icons/webpack/webpack-original.svg">
   </div>
   
   ##
