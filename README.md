@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi there, I'm <a href="https://apleon.github.io/rsschool-cv/" target="_blank">Amadeo</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center"> I'm a student of Front-end</h3>
+<h3 align="center"> I'm a Front-end developer</h3>
 
 ##
 
