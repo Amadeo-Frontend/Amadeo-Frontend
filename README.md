@@ -40,10 +40,9 @@
   ##
 
   <div>
-     <a href="https://instagram.com/amadeo1982/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+     <a href="https://www.instagram.com/amadeo_bon/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
      <a href="https://discord.gg/Amadeo_Bon#3732" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   
-   <a href="https://github.com/Amadeo-Frontend?tab=repositories"><img src="https://activity-graph.herokuapp.com/graph?username=Amadeo-Frontend&theme=nord&bg_color=2f343f00&hide_border=false" width="90%"/></a>
   ![Phanatagama](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
     
   </div>
