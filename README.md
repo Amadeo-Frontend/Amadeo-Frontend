@@ -29,6 +29,7 @@
      <img align="center" alt="Amadeo-GIT" height="30" widith="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
      <img align="center" alt="Amadeo-GITHUB" height="30" widith="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
      <img align="center" alt="Amadeo-VScode" height="30" widith="40" src="https://github.com/Amadeo-Frontend/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg">
+    <img align="center" alt="Amadeo-VScode" height="30" widith="40" src="https://github.com/Amadeo-Frontend/devicon/blob/master/icons/less/less-plain-wordmark.svg">
     <img align="center" alt="Amadeo-VScode" height="30" widith="40" src="https://github.com/Amadeo-Frontend/devicon/blob/master/icons/wordpress/wordpress-original.svg">
      <img align="center" alt="Amadeo-VScode" height="30" widith="40" src="https://github.com/Amadeo-Frontend/devicon/blob/master/icons/nodejs/nodejs-original.svg">
     <img align="center" alt="Amadeo-VScode" height="30" widith="40" src="https://github.com/Amadeo-Frontend/devicon/blob/master/icons/sass/sass-original.svg">
