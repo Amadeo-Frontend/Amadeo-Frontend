@@ -24,21 +24,22 @@
      <img align="center" alt="Amadeo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
      <img align="center" alt="Amadeo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
      <img align="center" alt="Amadeo-JavaScript" height="30" width="40" src="https://github.com/Amadeo-Frontend/devicon/blob/master/icons/javascript/javascript-original.svg">
+     <img align="center" alt="Amadeo-JavaScript" height="30" width="40" src="[https://github.com/Amadeo-Frontend/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg">
+     <img align="center" alt="Amadeo-VScode" height="30" widith="40" src="https://github.com/Amadeo-Frontend/devicon/blob/master/icons/react/react-original.svg">
      <img align="center" alt="Amadeo-Bootstrap" height="30" width="40" src="https://github.com/Amadeo-Frontend/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg">
       <img align="center" alt="Amadeo-jQuery" height="30" widith="40" src="https://github.com/Amadeo-Frontend/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg">
      <img align="center" alt="Amadeo-GIT" height="30" widith="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
      <img align="center" alt="Amadeo-GITHUB" height="30" widith="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
      <img align="center" alt="Amadeo-VScode" height="30" widith="40" src="https://github.com/Amadeo-Frontend/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg">
-    <img align="center" alt="Amadeo-VScode" height="30" widith="40" src="https://github.com/Amadeo-Frontend/devicon/blob/master/icons/less/less-plain-wordmark.svg">
-    <img align="center" alt="Amadeo-VScode" height="30" widith="40" src="https://github.com/Amadeo-Frontend/devicon/blob/master/icons/wordpress/wordpress-original.svg">
+     <img align="center" alt="Amadeo-VScode" height="30" widith="40" src="https://github.com/Amadeo-Frontend/devicon/blob/master/icons/less/less-plain-wordmark.svg">
+     <img align="center" alt="Amadeo-VScode" height="30" widith="40" src="https://github.com/Amadeo-Frontend/devicon/blob/master/icons/wordpress/wordpress-original.svg">
      <img align="center" alt="Amadeo-VScode" height="30" widith="40" src="https://github.com/Amadeo-Frontend/devicon/blob/master/icons/nodejs/nodejs-original.svg">
      <img align="center" alt="Amadeo-VScode" height="30" widith="40" src="https://github.com/Amadeo-Frontend/devicon/blob/master/icons/sass/sass-original.svg">
      <img align="center" alt="Amadeo-VScode" height="30" widith="40" src="https://github.com/Amadeo-Frontend/devicon/blob/master/icons/gulp/gulp-plain.svg">
      <img align="center" alt="Amadeo-VScode" height="30" widith="40" src="https://github.com/Amadeo-Frontend/devicon/blob/master/icons/webpack/webpack-original.svg">
      <img align="center" alt="Amadeo-VScode" height="30" widith="40" src="https://github.com/Amadeo-Frontend/devicon/blob/master/icons/grunt/grunt-original-wordmark.svg">
      <img align="center" alt="Amadeo-VScode" height="30" widith="40" src="https://github.com/Amadeo-Frontend/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg">
-     <img align="center" alt="Amadeo-VScode" height="30" widith="40" src="https://github.com/Amadeo-Frontend/devicon/blob/master/icons/react/react-original.svg">
-  </div>
+   </div>
   
   ##
 
