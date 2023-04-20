@@ -6,7 +6,7 @@
 ##
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hello+|+Hola+|Bonjour+|Привет+|你好+|こんにちは+|नमस्ते;+Welcome+to+my+profile+🌍 )](https://git.io/typing-svg)
-<!-- | Hola | Olá | Bonjour | Привет | 你好 | こんにちは | أهلا | नमस्ते -->
+<!-- Oi | Hola | Olá | Bonjour | Привет | 你好 | こんにちは | أهلا | नमस्ते -->
 
 <div id="header" align="center">
     <a href="yhttps://github.com/Ahmed-dev-dragon/">
