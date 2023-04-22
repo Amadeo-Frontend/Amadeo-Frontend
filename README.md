@@ -36,7 +36,7 @@
      <img align="center" alt="Amadeo-Bootstrap" height="30" width="40" src="https://github.com/Amadeo-Frontend/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg">
       <img align="center" alt="Amadeo-jQuery" height="30" widith="40" src="https://github.com/Amadeo-Frontend/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg">   
      <img align="center" alt="Amadeo-Less" height="30" widith="40" onmouseover="this.style.position='relative'; this.parentNode.style.position='relative';" src="https://github.com/Amadeo-Frontend/devicon/blob/master/icons/less/less-plain-wordmark.svg">
-      <span style="position: absolute; bottom: 100%; left: 0; background-color: #000; color: #fff; padding: 5px; z-index: 1;">Less</span>
+      <span style="position: absolute; bottom: 100%; left: 0; background-color: #000; color: #fff; padding: 5px; z-index: 1;"></span>
      <img align="center" alt="Amadeo-NodeJs" height="30" widith="40" src="https://github.com/Amadeo-Frontend/devicon/blob/master/icons/nodejs/nodejs-original.svg">
      <img align="center" alt="Amadeo-Sass" height="30" widith="40" src="https://github.com/Amadeo-Frontend/devicon/blob/master/icons/sass/sass-original.svg">
      <img align="center" alt="Amadeo-Gulp" height="30" widith="40" src="https://github.com/Amadeo-Frontend/devicon/blob/master/icons/gulp/gulp-plain.svg">
