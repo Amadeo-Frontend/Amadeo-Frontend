@@ -46,6 +46,7 @@
      <img align="center" alt="Amadeo-VScode" height="30" widith="40" src="https://github.com/Amadeo-Frontend/devicon/blob/master/icons/webpack/webpack-original.svg">
      <img align="center" alt="Amadeo-VScode" height="30" widith="40" src="https://github.com/Amadeo-Frontend/devicon/blob/master/icons/grunt/grunt-original-wordmark.svg">
      <img align="center" alt="Amadeo-VScode" height="30" widith="40" src="https://github.com/Amadeo-Frontend/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg">
+     <img align="center" alt="Amadeo-VScode" height="30" widith="40" src="https://styled-components.com/logo.png">
    </div>
   
   ##
