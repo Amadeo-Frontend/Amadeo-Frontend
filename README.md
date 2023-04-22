@@ -26,8 +26,8 @@
   ## 
    
   <div style="display: inline_block" align="center"><br>
-     <img align="center" alt="Amadeo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-     <img align="center" alt="Amadeo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+     <img align="center" alt="Amadeo-HTML" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+     <img align="center" alt="Amadeo-CSS" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
      <img align="center" alt="Amadeo-JavaScript" height="30" width="40" src="https://github.com/Amadeo-Frontend/devicon/blob/master/icons/javascript/javascript-original.svg">
       <img align="center" alt="Amadeo-TypeScript" height="30" width="40" src="https://github.com/Amadeo-Frontend/devicon/blob/master/icons/typescript/typescript-original.svg">
      <img align="center" alt="Amadeo-VueJs" height="30" width="40" src="https://github.com/Amadeo-Frontend/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg">
