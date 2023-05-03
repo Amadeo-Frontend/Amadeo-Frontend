@@ -32,6 +32,7 @@
       <img align="center" alt="Amadeo-TypeScript" height="45" width="45" src="https://github.com/Amadeo-Frontend/devicon/blob/master/icons/typescript/typescript-original.svg">
      <img align="center" alt="Amadeo-VueJs" height="45" width="45" src="https://github.com/Amadeo-Frontend/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg">
      <img align="center" alt="Amadeo-ReactJs" height="45" widith="45" src="https://github.com/Amadeo-Frontend/devicon/blob/master/icons/react/react-original.svg">
+      <img align="center" alt="Amadeo-Reduxjs" height="45" widith="45" src="https://github.com/Amadeo-Frontend/devicon/blob/master/icons/redux/redux-original.svg">
      <img align="center" alt="Amadeo-Vite" height="45" widith="45" src="https://camo.githubusercontent.com/61e102d7c605ff91efedb9d7e47c1c4a07cef59d3e1da202fd74f4772122ca4e/68747470733a2f2f766974656a732e6465762f6c6f676f2e737667">
      <img align="center" alt="Amadeo-Bootstrap" height="45" width="45" src="https://github.com/Amadeo-Frontend/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg">
       <img align="center" alt="Amadeo-jQuery" height="45" widith="45" src="https://github.com/Amadeo-Frontend/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg">   
