@@ -50,6 +50,8 @@
      <img align="center" alt="Amadeo-GITHUB" height="45" widith="45" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
      <img align="center" alt="Amadeo-VScode" height="45" widith="45" src="https://github.com/Amadeo-Frontend/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg">
       <img align="center" alt="Amadeo-Wordpress" height="45" widith="45" src="https://github.com/Amadeo-Frontend/devicon/blob/master/icons/wordpress/wordpress-original.svg">
+      <img align="center" alt="Amadeo-Wordpress" height="45" widith="45" src="https://github.com/Amadeo-Frontend/devicon/blob/master/icons/figma/figma-original.svg">
+      
    </div>
   
   ##
