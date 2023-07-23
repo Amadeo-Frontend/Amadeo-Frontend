@@ -30,6 +30,7 @@
      <img align="center" alt="Amadeo-CSS" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
      <img align="center" alt="Amadeo-JavaScript" height="45" width="45" src="https://github.com/Amadeo-Frontend/devicon/blob/master/icons/javascript/javascript-original.svg">
       <img align="center" alt="Amadeo-TypeScript" height="45" width="45" src="https://github.com/Amadeo-Frontend/devicon/blob/master/icons/typescript/typescript-original.svg">
+      <img align="center" alt="Amadeo-nextjs" height="45" width="45" src="https://aglv.dev/img/next.png">
      <img align="center" alt="Amadeo-VueJs" height="45" width="45" src="https://github.com/Amadeo-Frontend/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg">
      <img align="center" alt="Amadeo-ReactJs" height="45" widith="45" src="https://github.com/Amadeo-Frontend/devicon/blob/master/icons/react/react-original.svg">
       <img align="center" alt="Amadeo-Reduxjs" height="45" widith="45" src="https://github.com/Amadeo-Frontend/devicon/blob/master/icons/redux/redux-original.svg">
@@ -47,6 +48,7 @@
      <img align="center" alt="Amadeo-Styled-components" height="45" widith="45" src="https://styled-components.com/logo.png">
       <img align="center" alt="Amadeo-Jest" height="45" widith="45" src="https://github.com/Amadeo-Frontend/devicon/blob/master/icons/jest/jest-plain.svg">
       <img align="center" alt="Amadeo-Vite" height="45" widith="45" src="https://th.bing.com/th/id/OIP.n9SM5gO0VO6cq3hZEPe2hwHaHa?w=166&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7">
+      <img align="center" alt="Amadeo-motion" height="45" widith="45" src="https://avatars.githubusercontent.com/u/42876?v=4">
       <img align="center" alt="Amadeo-GIT" height="45" widith="45" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
      <img align="center" alt="Amadeo-GITHUB" height="45" widith="45" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
      <img align="center" alt="Amadeo-VScode" height="45" widith="45" src="https://github.com/Amadeo-Frontend/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg">
