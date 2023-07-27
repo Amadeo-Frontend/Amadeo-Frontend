@@ -11,7 +11,7 @@
 
 <div id="header" align="center">
     <a href="yhttps://github.com/Ahmed-dev-dragon/">
-  <img src="https://cdn.dribbble.com/users/1235346/screenshots/3252385/job.gif" width="580" border-radius='20px'/>
+  <img src="https://cdn.dribbble.com/users/1235346/screenshots/3252385/job.gif" width="580"/>
        </a>
 </div>
 
