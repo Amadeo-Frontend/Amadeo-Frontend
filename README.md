@@ -14,7 +14,7 @@
        </a>
 </div>
 
-# Habilidades
+# Habilidades 🎯
 
 
 
@@ -48,7 +48,7 @@
 <strong>Testes 📊</strong> <br/> <br />
 
 <img align="center" alt="Amadeo-Jest" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white">
-<img align="center" alt="Amadeo-Cypress" src="https://img.shields.io/badge/cypress-green?style=for-the-badge&logo=cypress&logoColor=white">
+<img align="center" alt="Amadeo-Cypress" src="https://img.shields.io/badge/cypress-green?style=for-the-badge&logo=cypress">
 <img align="center" alt="Amadeo-Jest" src="https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red">
 
 ##
@@ -61,12 +61,12 @@
 
 <strong>Ferramentas de Desenvolvimento em geral ⚙</strong> <br/> <br />
 <div>
-     <img align="center" style="margin-bottom:6px;" alt="Amadeo-Vite" src="https://img.shields.io/badge/vite-1572B6?style=for-the-badge&logo=vite&logoColor=orange">
+     <img align="center" style="margin-bottom:6px;" alt="Amadeo-Vite" src="https://img.shields.io/badge/vite-000?style=for-the-badge&logo=vite">
      <img align="center" style="margin-bottom:6px;" alt="Amadeo-Vite" src="https://img.shields.io/badge/Npm-F80000?style=for-the-badge&logo=Npm&logoColor=white">
      <img align="center" style="margin-bottom:6px;" alt="Amadeo-NodeJs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
      <img align="center" style="margin-bottom:6px;" alt="Amadeo-Gulp" src="https://img.shields.io/badge/Gulp.js-4A4A55?style=for-the-badge&logo=gulp&logoColor=FF3E00">
      <img align="center" style="margin-bottom:6px;" alt="Amadeo-Webpack" src="https://img.shields.io/badge/webpack-0175C2?style=for-the-badge&logo=webpack&logoColor=white">
-     <img align="center" style="margin-bottom:6px;" alt="Amadeo-Grunt" src="https://img.shields.io/badge/Grunt.js-D83B01?style=for-the-badge&logo=grunt&logoColor=white">
+     <img align="center" style="margin-bottom:6px;" alt="Amadeo-Grunt" src="https://img.shields.io/badge/Grunt.js-000?style=for-the-badge&logo=grunt">
      <img align="center" style="margin-bottom:6px;" alt="Amadeo-motion" src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue">
      <img align="center" style="margin-bottom:6px;" alt="Amadeo-GIT" src="https://img.shields.io/badge/Git-DA1F26?style=for-the-badge&logo=Git&logoColor=white">
      <img align="center" style="margin-bottom:6px;" alt="Amadeo-GITHUB" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
@@ -77,15 +77,20 @@
    </div>
 
 ##
-# Github Stats
+# Github Stats 📈
 <div align="center">
   <a href="https://github.com/Amadeo-Frontend">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amadeo-Frontend&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amadeo-Frontend&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
-  
+
+# Projetos 📋 <br /> <br />
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Amadeo-Frontend&repo=Chat-codex&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Amadeo-Frontend/Chat-codex)
+  <br/>
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Amadeo-Frontend&repo=contact-list&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Amadeo-Frontend/contact-list)
   ##
-# Conecte-se comigo
+# Conecte-se comigo 📱
   <div>
      <a href="https://www.instagram.com/amadeo_bon/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
      <a href="https://www.linkedin.com/in/amadeo-bon/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
