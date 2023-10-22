@@ -84,7 +84,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amadeo-Frontend&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
-# Projetos 📋 <br /> <br />
+# Projetos 📋
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Amadeo-Frontend&repo=Chat-codex&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Amadeo-Frontend/Chat-codex)
   <br/>
