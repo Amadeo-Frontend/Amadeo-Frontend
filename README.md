@@ -88,6 +88,9 @@
 
 # Projetos 📋
 
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Amadeo-Frontend&repo=Chat-codex&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)]((https://github.com/Amadeo-Frontend/React-Native__Cat-adoption-app))
+
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Amadeo-Frontend&repo=Chat-codex&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Amadeo-Frontend/Chat-codex)
   <br/>
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Amadeo-Frontend&repo=contact-list&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Amadeo-Frontend/contact-list)
