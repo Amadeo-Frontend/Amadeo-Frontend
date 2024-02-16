@@ -106,8 +106,8 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amadeo-Frontend&repo=Bondevs-weather-app&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF">
     </a>
 </div>
-  ##
-# Conecte-se comigo 📱
+
+  ## Conecte-se comigo 📱
   <div>
      <a href="https://www.instagram.com/amadeo_bon/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
      <a href="https://www.linkedin.com/in/amadeo-bon/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
