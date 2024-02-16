@@ -14,12 +14,12 @@
        </a>
 </div>
 
-
-
-
+<div  align="center">
+# Habilidades 🎯
+</div>
 
  <div style="display: inline_block" align="center"><br>
-# Habilidades 🎯
+
  <strong>Linguagens de Marcação e Estilo ✔</strong> <br /> <br />
      <img align="center" style="margin-bottom:6px;" alt="Amadeo-HTML" src="https://img.shields.io/badge/HTML-ff000?style=for-the-badge&logo=html5&logoColor=red">
      <img align="center" style="margin-bottom:6px;" alt="Amadeo-CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
