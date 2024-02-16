@@ -88,16 +88,22 @@
 
 # Projetos 📋
 
-<div style="display: inline_block"  align="center">
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+    <a href="https://github.com/Amadeo-Frontend/React-Native__Cat-adoption-app" style="margin: 10px;">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amadeo-Frontend&repo=React-Native__Cat-adoption-app&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF">
+    </a>
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Amadeo-Frontend&repo=React-Native__Cat-adoption-app&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Amadeo-Frontend/React-Native__Cat-adoption-app)
+    <a href="https://github.com/Amadeo-Frontend/Angular-Quiz" style="margin: 10px;">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amadeo-Frontend&repo=Angular-Quiz&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF">
+    </a>
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Amadeo-Frontend&repo=Angular-Quiz&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Amadeo-Frontend/Angular-Quiz)
+    <a href="https://github.com/Amadeo-Frontend/Chat-codex" style="margin: 10px;">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amadeo-Frontend&repo=Chat-codex&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF">
+    </a>
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Amadeo-Frontend&repo=Chat-codex&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Amadeo-Frontend/Chat-codex)
-  <br/>
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Amadeo-Frontend&repo=Bondevs-weather-app&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Amadeo-Frontend/Bondevs-weather-app)
-
+    <a href="https://github.com/Amadeo-Frontend/Bondevs-weather-app" style="margin: 10px;">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amadeo-Frontend&repo=Bondevs-weather-app&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF">
+    </a>
 </div>
   ##
 # Conecte-se comigo 📱
