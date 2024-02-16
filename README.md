@@ -38,11 +38,9 @@
 
 <strong>Bibliotecas e Frameworks 📚</strong> <br/> <br />
      <img align="center" alt="Amadeo-ReactJs" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-     <img align="center" alt="Amadeo-ReactJs" src="https://img.shields.io/badge/React-Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+     <img align="center" alt="Amadeo-ReactJs" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
      <img align="center" alt="Amadeo-nextjs" src="https://img.shields.io/badge/next.js-20232A?style=for-the-badge&logo=next.js&logoColor=white">
      <img align="center" alt="Amadeo-angular" src="https://img.shields.io/badge/angular-20232A?style=for-the-badge&logo=angular">
-     <img align="center" alt="Amadeo-VueJs" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
-     <img align="center" alt="Amadeo-Reduxjs"  src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
      <img align="center" alt="Amadeo-jQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"> 
 
 ##
