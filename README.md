@@ -15,9 +15,11 @@
 </div>
 
 <div  align="center">
+    
 # Habilidades 🎯
 </div>
 
+## 
  <div style="display: inline_block" align="center"><br>
 
  <strong>Linguagens de Marcação e Estilo ✔</strong> <br /> <br />
