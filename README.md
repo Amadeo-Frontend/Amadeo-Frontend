@@ -19,7 +19,7 @@
 # Projetos 📋
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align="center;">
-    <a href="https://github.com/Amadeo-Frontend/React-Native__Cat-adoption-app" style="margin: 10px;">
+    <a href="https://github.com/Amadeo-Frontend/React-Native__Cat-adoption-app" style="margin: 16px;">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amadeo-Frontend&repo=React-Native__Cat-adoption-app&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF">
     </a>
 
@@ -47,13 +47,13 @@
  <div style="display: inline_block" align="center"><br>
 
  <strong>Linguagens de Marcação e Estilo ✔</strong> <br /> <br />
-     <img align="center" style="margin-bottom:6px;" alt="Amadeo-HTML" src="https://img.shields.io/badge/HTML-ff000?style=for-the-badge&logo=html5&logoColor=red">
-     <img align="center" style="margin-bottom:6px;" alt="Amadeo-CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-     <img align="center" style="margin-bottom:6px;" alt="Amadeo-Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-     <img align="center" style="margin-bottom:6px;" alt="Amadeo-Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
-     <img align="center" style="margin-bottom:6px;" alt="Amadeo-Less" src="https://img.shields.io/badge/less-1572B6?style=for-the-badge&logo=less&logoColor=white">
-     <img align="center" style="margin-bottom:6px;" alt="Amadeo-Tailwindcss" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-     <img align="center" style="margin-bottom:6px;" alt="Amadeo-Styled-components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
+     <img align="center" style="margin: 16px;" alt="Amadeo-HTML" src="https://img.shields.io/badge/HTML-ff000?style=for-the-badge&logo=html5&logoColor=red">
+     <img align="center" style="margin: 16px;" alt="Amadeo-CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+     <img align="center" style="margin: 16px;" alt="Amadeo-Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+     <img align="center" style="margin: 16px;" alt="Amadeo-Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
+     <img align="center" style="margin: 16px;" alt="Amadeo-Less" src="https://img.shields.io/badge/less-1572B6?style=for-the-badge&logo=less&logoColor=white">
+     <img align="center" style="margin: 16px;" alt="Amadeo-Tailwindcss" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+     <img align="center" style="margin: 16px;" alt="Amadeo-Styled-components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
 
 ## 
 
