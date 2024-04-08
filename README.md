@@ -60,6 +60,7 @@
 <strong>Linguagens de Programação 💻</strong> <br /> <br/>
      <img align="center" alt="Amadeo-JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
      <img align="center" alt="Amadeo-TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+     <img align="center" alt="Amadeo-Python" src="https://img.shields.io/badge/Python-007ACC?style=for-the-badge&logo=python">
 
 ##
 
