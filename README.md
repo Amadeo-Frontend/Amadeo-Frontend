@@ -16,7 +16,7 @@
 
 <div  align="center">
 
-# Projetos 📋
+# Projetos <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Light%20Skin%20Tone.png" alt="Writing Hand Light Skin Tone" width="30" height="30" />
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align="center;">
     <a href="https://github.com/Amadeo-Frontend/React-Native__Cat-adoption-app" style="margin: 16px;">
