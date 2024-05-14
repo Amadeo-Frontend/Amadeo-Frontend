@@ -1,5 +1,5 @@
 <h1 align="center">Olá, meu nome é <a href="https://amadeobon.netlify.app/" target="_blank">Amadeo Bon</a>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="25" height="25" /></h1>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="30" height="30" /></h1>
 <h3 align="center"> Sou um Desenvolvedor Front-end</h3>
 
 ##
