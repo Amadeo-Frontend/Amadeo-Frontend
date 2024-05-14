@@ -1,6 +1,6 @@
-<h1 align="center">Olá, meu nome é <a href="https://amadeobon.netlify.app/" target="_blank">Amadeo Bon</a>
+<h1 align="center">Olá, meu nome é <a href="https://amadeobon.netlify.app/" target="_blank"> &nbsp; Amadeo Bon &nbsp;</a>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="30" height="30" /></h1>
-<h3 align="center"> &nbsp; Sou um Desenvolvedor Front-end &nbsp; </h3>
+<h2 align="center">Sou um Desenvolvedor Front-end</h2>
 
 ##
 
@@ -117,7 +117,7 @@
      <a href="mailto:amadeobon@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=Microsoft-outlook&logoColor=white"></a>
      
       
-  ## [🔝](#--Sou-um-Desenvolvedor-Front-end--)
+  ## [🔝](#--Amadeo-Bon--)
   ![Phanatagama](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
     
   </div>
