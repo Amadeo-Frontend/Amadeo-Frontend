@@ -99,7 +99,7 @@
    </div>
 
 ##
-# Github Stats 📈
+# Github Stats <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="40" height="40" />
 <div align="center">
   <a href="https://github.com/Amadeo-Frontend">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amadeo-Frontend&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
@@ -107,7 +107,7 @@
 </div>
 
 
-  # Conecte-se comigo <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="35" height="35" />
+  # Conecte-se comigo
   <div>
      <a href="https://www.instagram.com/amadeo_bon/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
      <a href="https://www.linkedin.com/in/amadeo-bon/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
