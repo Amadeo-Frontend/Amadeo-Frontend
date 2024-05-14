@@ -1,8 +1,6 @@
 <h1 align="center">Olá, meu nome é Amadeo Bon <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="30" height="30" /></h1>
 <h2 align="center"> &nbsp; Sou um Desenvolvedor Front-end &nbsp; </h2>
 
-##
-
 <div align="center">
     
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=650&lines=|Oi+|Hello+|+Hola+|Bonjour+|Привет+|你好+|こんにちは+|नमस्ते;+Welcome+to+my+profile+🌍 )](https://git.io/typing-svg)
