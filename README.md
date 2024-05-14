@@ -1,4 +1,4 @@
-<h1 align="center">Olá, meu nome é &nbsp; Amadeo Bon &nbsp;
+# <h1 align="center">Olá, meu nome é &nbsp; Amadeo Bon &nbsp;
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="30" height="30" /></h1>
 <h2 align="center">Sou um Desenvolvedor Front-end</h2>
 
