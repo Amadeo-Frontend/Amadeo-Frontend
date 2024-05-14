@@ -41,7 +41,7 @@
 </div>
 <div  align="center">
     
-# Habilidades 🎯
+# Habilidades <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="40" height="40" />
 </div>
 
  <div style="display: inline_block" align="center"><br>
