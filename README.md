@@ -7,12 +7,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=650&lines=|Oi+|Hello+|+Hola+|Bonjour+|Привет+|你好+|こんにちは+|नमस्ते;+Welcome+to+my+profile+🌍 )](https://git.io/typing-svg)
 <!-- Oi | Hola | Olá | Bonjour | Привет | 你好 | こんにちは | أهلا | नमस्ते -->
-
+<!--
 <div id="header" align="center">
     <a href="https://github.com/Ahmed-dev-dragon/">
   <img src="https://cdn.dribbble.com/users/1235346/screenshots/3252385/job.gif" width="580" border-radius="8px"/>
        </a>
-</div>
+</div> -->
 
 <div  align="center">
 
