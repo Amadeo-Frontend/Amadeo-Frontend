@@ -1,4 +1,4 @@
-<h1 align="center">Olá, meu nome é Amadeo Bon <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="30" height="30" /></h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="40" height="40" /> Olá, meu nome é Amadeo Bon</h1>
 <h2 align="center"> &nbsp; Sou um Desenvolvedor Front-end &nbsp; </h2>
 
 <div align="center">
