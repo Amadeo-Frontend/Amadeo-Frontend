@@ -83,7 +83,7 @@
 <strong>Ferramentas de Desenvolvimento em geral ⚙</strong> <br/> <br />
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align="center;>
      <img align="center" style="margin: 16px; padding: 8px;" alt="Amadeo-Vite" src="https://img.shields.io/badge/vite-000?style=for-the-badge&logo=vite">
-     <img align="center" style="margin: 16px; padding: 8px;" alt="Amadeo-Firebase" src="https://img.shields.io/badge/firebase-000?style=for-the-badge&logo=firebase">
+     <img align="center" style="margin: 16px; padding: 8px;" alt="Amadeo-Firebase" src="https://img.shields.io/badge/firebase-F24E1E?style=for-the-badge&logo=firebase">
      <img align="center" style="margin: 16px; padding: 8px;" alt="Amadeo-Expo" src="https://img.shields.io/badge/expo-000?style=for-the-badge&logo=expo">
      <img align="center" style="margin: 16px; padding: 8px;" alt="Amadeo-npm" src="https://img.shields.io/badge/Npm-F80000?style=for-the-badge&logo=Npm&logoColor=white">
      <img align="center" style="margin: 16px; padding: 8px;" alt="Amadeo-NodeJs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
