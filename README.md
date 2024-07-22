@@ -32,8 +32,8 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amadeo-Frontend&repo=Chat-codex&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF">
     </a>
 
- <a href="https://github.com/Amadeo-Frontend/Bondevs-weather-app" style="margin: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amadeo-Frontend&repo=Bondevs-weather-app&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF">
+ <a href="https://github.com/Amadeo-Frontend/ReactJs-Codex_AI" style="margin: 10px;">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amadeo-Frontend&repo=ReactJs-Codex_AI&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF">
     </a>
     </a>
 </div>
