@@ -28,8 +28,8 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amadeo-Frontend&repo=Angular-Quiz&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF">
     </a>
 
- <a href="https://github.com/Amadeo-Frontend/React-Icon__Express" style="margin: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amadeo-Frontend&repo=React-Icon__Express&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF">
+ <a href="https://github.com/Amadeo-Frontend/ReactJs-Icon__Express" style="margin: 10px;">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amadeo-Frontend&repo=ReactJs-Icon__Express&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF">
     </a>
 
  <a href="https://github.com/Amadeo-Frontend/ReactJs-Codex_AI" style="margin: 10px;">
