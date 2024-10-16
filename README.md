@@ -19,7 +19,7 @@
 # Projetos <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Light%20Skin%20Tone.png" alt="Writing Hand Light Skin Tone" width="30" height="30" />
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align="center;">
-    <a href="https://github.com/Amadeo-Frontend/React-Native__Cat-adoption-app" style="margin: 16px;">
+    <a href="https://github.com/Amadeo-Frontend/React-Native__Cat-adoption-app" style="margin: 10px;">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amadeo-Frontend&repo=React-Native__Cat-adoption-app&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF">
     </a>
 
